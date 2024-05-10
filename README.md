@@ -1,4 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Lawal Mauzu
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)M;My+name+is+Ali+Lawal+Muazu....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 =======================================================================================================================================
 
 FULL STACK DEVELOPER & AL/ML/DL Enthusiat
